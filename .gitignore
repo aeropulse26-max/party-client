@@ -1,0 +1,4 @@
+node_modules/
+client/build/
+client/.gradle/
+launcher/dist/
